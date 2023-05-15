@@ -24,6 +24,8 @@
 
  <h2 align="center">
  Our travel log is a digital journal filled with captivating tales, breathtaking photographs, and invaluable insights from globetrotters who have roamed the far corners of the Earth. We're here to inspire and guide you as you plan your next escapade, whether it's a weekend getaway or a long-term expedition.
+ 
+ Let the exploration begin!😎🎶
   
    </h2>
 
